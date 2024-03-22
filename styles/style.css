@@ -189,7 +189,7 @@ button:active {
 }
 
 .content__details {
-  max-width: 399px;
+  width: 399px;
 }
 
 .content__list-item {

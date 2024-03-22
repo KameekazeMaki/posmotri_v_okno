@@ -1,1 +1,1 @@
-git@github.com:KameekazeMaki/posmotri_v_okno.git
+https://github.com/KameekazeMaki/posmotri_v_okno
