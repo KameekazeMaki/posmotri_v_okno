@@ -1,1 +1,0 @@
-https://github.com/KameekazeMaki/posmotri_v_okno
