@@ -1,0 +1,1 @@
+git@github.com:KameekazeMaki/posmotri_v_okno.git
